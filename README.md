@@ -1,4 +1,5 @@
 #ใบงานที่ 2 การเพิ่ม Message Map ลงในโปรแกรม Win32 API
+# นายวีรภัทร	แก่นจันทร์	57030222
 
 ##วัตถุประสงค์
 
@@ -124,4 +125,4 @@
 * [PostQuitMessage function](https://msdn.microsoft.com/en-us/library/windows/desktop/ms644945(v=vs.85).aspx)
  
 
-
+# นายวีรภัทร	แก่นจันทร์	57030222
